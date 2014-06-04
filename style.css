@@ -1,0 +1,12 @@
+/*
+Theme Name: USC Graphic Identity
+Theme URI: http://test7.usc.edu/
+Description: Child theme for USC Gateway
+Author: Cameron Bates
+Version: 1.0
+Tags: USC, gateway
+Author URI: http://www.usc.edu/web/
+Template: usc_gateway
+*/
+
+@import url("https://identity.usc.edu/wp-content/themes/usc_gateway/style.css");

@@ -1,0 +1,11 @@
+body { background: #fff; color: black; margin: 0; width: 100%; }
+header { height: 80px; }
+header h1 a.name, #topnav, #searchform { display: none; }
+.pagewidth { width: auto; padding: 0 }
+#content-main { width: auto; float: none; padding: 0; -moz-box-shadow: none; -webkit-boz-shadow: none; -o-box_shadow: none; box-shadow: none; }
+h2 mark, h3 mark { display: none !important; }
+#datebar { display: none; }
+#content-main { overshow: auto; }
+#content-main:after, #content-main:before { display: none; }
+#content-sub { display: none; }
+footer { clear: both !important; }
